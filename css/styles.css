@@ -253,10 +253,6 @@ li {
   gap: 30px;
 }
 
-.team-img {
-  margin-bottom: 30px;
-}
-
 .team-name {
   font-weight: 500;
   font-size: 16px;
@@ -274,7 +270,11 @@ li {
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
-  margin: 0 70px 30px 70px;
+}
+
+.about-photo {
+padding-top: 30px;
+padding-bottom: 30px;
 }
 
 .team-item {
